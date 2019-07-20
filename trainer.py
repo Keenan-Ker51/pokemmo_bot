@@ -1,5 +1,4 @@
-# beggining of the training portion of a larger focus for a better bot, for free, and open source.
-# will be running python largely with pynput
+# beggining of the training portion of a larger focus for a better bot, for free, and open source
 from pynput.keyboard import Key, Controller
 import time
 from random import randint
