@@ -1,4 +1,5 @@
 # beggining of the training portion of a larger focus for a better bot, for free, and open source
+#https://softwarerecs.stackexchange.com/questions/42664/python-gui-automation-library-for-simulating-user-interaction-in-apps
 from pynput.keyboard import Key, Controller
 import time
 from random import randint
